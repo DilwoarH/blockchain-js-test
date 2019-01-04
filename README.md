@@ -6,7 +6,7 @@ node index.js
 
 ## Example response
 
-```
+```javascript
 [ Block {
     index: 0,
     timestamp: 1546613929711,
